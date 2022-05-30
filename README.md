@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gastuxa1ne
-- 👀 I’m interested in Java, HTML, CSS
+- 👀 I’m interested in Java, HTML, CSS, MySQL
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...(idk)
 - 📫 How to reach me https://t.me/kidKaddy
